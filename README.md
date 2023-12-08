@@ -2,7 +2,11 @@
 
 ![Crafting Interpreters](https://craftinginterpreters.com/image/header.png)
 
-📘 Welcome to the repository for "Crafting Interpreters" by Bob Nystrom! 🚀 This repository contains the Java and C code implementations from the book, allowing you to dive into the fascinating world of language interpreters.
+📘 Welcome to the repository for "Crafting Interpreters" by Bob Nystrom! 🚀 This repository contains the Java and C code implementations from the book, as I embark on the exciting journey of learning language interpreters.
+
+## About Me
+
+👋 Hi, I'm Vaibhav Singh, and I'm currently diving into the world of language implementation through "Crafting Interpreters." This repository serves as my learning playground, where I explore the intricacies of building interpreters for the programming language "Lox." The book guides me through creating both a straightforward "tree-walk" interpreter and a more advanced bytecode virtual machine.
 
 ## About the Book
 
@@ -12,9 +16,3 @@
 
 - 📁 **java_interpreter**: Java code implementation
 - 📁 **c_interpreter**: C code implementation
-
-## Getting Started
-
-1. 📖 Read the book online: [Crafting Interpreters](https://craftinginterpreters.com/)
-2. 📂 Clone this repository: `git clone https://github.com/your-username/crafting-interpreters.git`
-3. 🚀 Explore the Java and C implementations in their respective directories.
