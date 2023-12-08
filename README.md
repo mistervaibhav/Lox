@@ -1,6 +1,6 @@
 # Lox : Crafting Interpreters
 
-![Crafting Interpreters](cover_image.jpg)
+![Crafting Interpreters](https://craftinginterpreters.com/image/header.png)
 
 📘 Welcome to the repository for "Crafting Interpreters" by Bob Nystrom! 🚀 This repository contains the Java and C code implementations from the book, allowing you to dive into the fascinating world of language interpreters.
 
