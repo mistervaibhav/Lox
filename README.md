@@ -2,7 +2,7 @@
 
 ![Crafting Interpreters](https://craftinginterpreters.com/image/header.png)
 
-📘 Welcome to the repository for "Crafting Interpreters" by Bob Nystrom! 🚀 This repository contains the Java and C code implementations from the book, as I embark on the exciting journey of learning language interpreters.
+📘 Welcome to the repository for "Crafting Interpreters" by Bob Nystrom! 🚀 This repository contains code implementations from the book, as I embark on the exciting journey of learning language interpreters.
 
 ## About Me
 
@@ -16,3 +16,5 @@
 
 - 📁 **java_interpreter**: Java code implementation
 - 📁 **c_interpreter**: C code implementation
+- 📁 **typescript_interpreter**: Typescript code implementation
+- 📁 **cpp_interpreter**: C++ code implementation
